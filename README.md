@@ -22,7 +22,7 @@ public class Main {
     }
 }
 
-ackage Interface;
+Package Interface;
 
 public class Empleado {
 
